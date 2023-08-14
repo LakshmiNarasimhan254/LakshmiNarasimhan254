@@ -13,9 +13,14 @@ I'm Lakshmi Narasimhan👋. I hear you , its a long name 😄. You can call me L
 <img align="left" alt="Maven" width="26px" src="https://img.icons8.com/ios/50/maven-ios.png"/>
 
 
-- 🔭 I’m currently working on 
 
-- 📫 How to reach me: lakshminarasimhan254@gmail.com
+
+
+
+
+
+🌱 I’m currently learning JS and TS
+📫 How to reach me: lakshminarasimhan254@gmail.com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshmiNarasimhan254&show_icons=true)  
 
@@ -27,7 +32,7 @@ I'm Lakshmi Narasimhan👋. I hear you , its a long name 😄. You can call me L
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on learning JS
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
